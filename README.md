@@ -12,7 +12,6 @@
 
 - **[radar-indoor-mapping-uav](https://github.com/Kartikdangi1/radar-indoor-mapping-uav)** — Containerized ROS2 SLAM stack fusing 4D radar + camera for real-time UAV navigation
 - **[ros2-autonomous-explorer](https://github.com/Kartikdangi1/ros2-autonomous-explorer)** — Autonomous exploration framework with frontier-based navigation in ROS2
-- **Bachelor's Thesis** — Wrapping up radar-inertial odometry and occupancy mapping research
 
 ### 🛠️ Tech I Work With
 

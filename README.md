@@ -58,12 +58,10 @@ Most of what I do is **ROS 2 · C++ · Python** on Linux, containerized with Doc
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kartikdangi1/Kartikdangi1/output/github-contribution-grid-snake.svg" />
 </picture>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartikdangi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikdangi1&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-rickstaa.vercel.app/api?username=Kartikdangi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Kartikdangi1&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kartikdangi1&theme=tokyonight&hide_border=true&card_width=500)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kartikdangi1&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 

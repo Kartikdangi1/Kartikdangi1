@@ -35,7 +35,7 @@ Migrated a ROS 1 collision-avoidance stack (6-DoF UR5e) to ROS 2 for a 7-DoF NEU
 **[Vision-Guided Robotic Socket Insertion](https://kartikdangi1.github.io/Portfolio/projects/vision-guided-socket-insertion/)**  
 Assembly cell guided entirely by vision: Detectron2 segmentation, SIFT + RANSAC pose refinement, and a live reward classifier confirming each insertion. 0.964 mean mask IoU on 34 validation instances; 25 of 27 insertion cycles with no manual correction in a 30-minute session.
 
-Also on the portfolio: an [autonomous frontier explorer](https://kartikdangi1.github.io/Portfolio/projects/ros2-autonomous-explorer/), [phone-as-sensor drone control](https://kartikdangi1.github.io/Portfolio/projects/phone-drone/) and [camera-driven robotic hand tracking](https://kartikdangi1.github.io/Portfolio/projects/hand-tracking-simulation/).
+Also on the portfolio: an [autonomous frontier explorer](https://kartikdangi1.github.io/Portfolio/projects/ros2-autonomous-explorer/).
 
 ---
 
